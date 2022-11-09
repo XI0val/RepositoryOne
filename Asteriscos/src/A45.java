@@ -1,4 +1,4 @@
-public class astA5 {
+public class A45 {
     public static void main(String[] args) {
         for (int f = 1; f<=1; f++){ //for se moverá desde 1 hasta 5.
             for (int col = 1; col<=1; col++){//for se movera para hacer las columnas
